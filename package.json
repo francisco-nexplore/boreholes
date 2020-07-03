@@ -1,0 +1,22 @@
+{
+  "name": "boreholes",
+  "version": "1.0.0",
+  "description": "Boreholes Nexplore Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francisco-nexplore/boreholes.git"
+  },
+  "keywords": [
+    "Nexplore"
+  ],
+  "author": "Digitial Ground Model Project",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francisco-nexplore/boreholes/issues"
+  },
+  "homepage": "https://github.com/francisco-nexplore/boreholes#readme"
+}
